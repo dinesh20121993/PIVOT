@@ -1,0 +1,15 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# IDE and editor-related
+.vscode/
+*.swp
+
+# Large files or datasets
+data/
+models/
